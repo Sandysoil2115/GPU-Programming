@@ -54,6 +54,10 @@ int main() {
         std::cout << "  Max Threads Per Block:       " << prop.maxThreadsPerBlock << std::endl;
         std::cout << "  Shared Memory Per Block :     " << prop.sharedMemPerBlock / 1024 << " KB" << std::endl;
         std::cout << "  Warp Size:                   " << prop.warpSize << std::endl;
+	std::cout << "  Clock rate:                  " << prop.clockRate << std::endl;
+	std::cout << "  Memory Clock Rate            " << prop.memoryClockRate << std::endl;
+	std::cout << "  L2Cache Size:                " << prop.l2CacheSize << std::endl;
+	std::cout << "  Shared Mem per Multiprocessor: " << prop.sharedMemPerMultiprocessor << std::endl;
         std::cout << std::endl;
     }
 
