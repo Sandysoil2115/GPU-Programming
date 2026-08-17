@@ -1,0 +1,80 @@
+Blockidx 11 Threadidx 0,hello
+Blockidx 11 Threadidx 1,hello
+Blockidx 11 Threadidx 2,hello
+Blockidx 11 Threadidx 3,hello
+Blockidx 11 Threadidx 4,hello
+Blockidx 11 Threadidx 5,hello
+Blockidx 11 Threadidx 6,hello
+Blockidx 11 Threadidx 7,hello
+Blockidx 11 Threadidx 8,hello
+Blockidx 11 Threadidx 9,hello
+Blockidx 7 Threadidx 0,hello
+Blockidx 7 Threadidx 1,hello
+Blockidx 7 Threadidx 2,hello
+Blockidx 7 Threadidx 3,hello
+Blockidx 7 Threadidx 4,hello
+Blockidx 7 Threadidx 5,hello
+Blockidx 7 Threadidx 6,hello
+Blockidx 7 Threadidx 7,hello
+Blockidx 7 Threadidx 8,hello
+Blockidx 7 Threadidx 9,hello
+Blockidx 4 Threadidx 0,hello
+Blockidx 4 Threadidx 1,hello
+Blockidx 4 Threadidx 2,hello
+Blockidx 4 Threadidx 3,hello
+Blockidx 4 Threadidx 4,hello
+Blockidx 4 Threadidx 5,hello
+Blockidx 4 Threadidx 6,hello
+Blockidx 4 Threadidx 7,hello
+Blockidx 4 Threadidx 8,hello
+Blockidx 4 Threadidx 9,hello
+Blockidx 1 Threadidx 0,hello
+Blockidx 1 Threadidx 1,hello
+Blockidx 1 Threadidx 2,hello
+Blockidx 1 Threadidx 3,hello
+Blockidx 1 Threadidx 4,hello
+Blockidx 1 Threadidx 5,hello
+Blockidx 1 Threadidx 6,hello
+Blockidx 1 Threadidx 7,hello
+Blockidx 1 Threadidx 8,hello
+Blockidx 1 Threadidx 9,hello
+Waste code thread10, block 4 , threadno 0
+Waste code thread10, block 4 , threadno 1
+Waste code thread10, block 4 , threadno 2
+Waste code thread10, block 4 , threadno 3
+Waste code thread10, block 4 , threadno 4
+Waste code thread10, block 4 , threadno 5
+Waste code thread10, block 4 , threadno 6
+Waste code thread10, block 4 , threadno 7
+Waste code thread10, block 4 , threadno 8
+Waste code thread10, block 4 , threadno 9
+Waste code thread30, block 11 , threadno 0
+Waste code thread30, block 11 , threadno 1
+Waste code thread30, block 11 , threadno 2
+Waste code thread30, block 11 , threadno 3
+Waste code thread30, block 11 , threadno 4
+Waste code thread30, block 11 , threadno 5
+Waste code thread30, block 11 , threadno 6
+Waste code thread30, block 11 , threadno 7
+Waste code thread30, block 11 , threadno 8
+Waste code thread30, block 11 , threadno 9
+Waste code thread30, block 7 , threadno 0
+Waste code thread30, block 7 , threadno 1
+Waste code thread30, block 7 , threadno 2
+Waste code thread30, block 7 , threadno 3
+Waste code thread30, block 7 , threadno 4
+Waste code thread30, block 7 , threadno 5
+Waste code thread30, block 7 , threadno 6
+Waste code thread30, block 7 , threadno 7
+Waste code thread30, block 7 , threadno 8
+Waste code thread30, block 7 , threadno 9
+Waste code thread40, block 1 , threadno 0
+Waste code thread40, block 1 , threadno 1
+Waste code thread40, block 1 , threadno 2
+Waste code thread40, block 1 , threadno 3
+Waste code thread40, block 1 , threadno 4
+Waste code thread40, block 1 , threadno 5
+Waste code thread40, block 1 , threadno 6
+Waste code thread40, block 1 , threadno 7
+Waste code thread40, block 1 , threadno 8
+Waste code thread40, block 1 , threadno 9
